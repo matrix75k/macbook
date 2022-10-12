@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(179, 172, 172) !important;
+}
+.d-md-block{
+    background-color: rgba(114, 114, 96, 0.597);
+}
+.card-body {
+    margin-left: 25px;
+}
+.card-body p{
+    padding-top: 5px;
+}
+.info{
+    margin-top: 17px;
+}
+.kl{
+    background-color: rgb(143, 138, 138) !important;
+}
